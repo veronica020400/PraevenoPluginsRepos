@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginPraevenioV", "PluginPraevenioV\PluginPraevenioV.csproj", "{17D3A399-7E00-473C-90D7-4DC95C6A3D65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8560A3C6-73A4-4711-A830-A83981D51689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContattoPluginPartecipazione", "ContattoPluginPartecipazione\ContattoPluginPartecipazione.csproj", "{B5B05F1E-5337-4DB1-BCB9-622385D5AA9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateNewScadenzaGenerata", "CreateNewScadenzaGenerata\CreateNewScadenzaGenerata.csproj", "{BA95FB40-7DB3-43DD-ADD3-65032767B4E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D3A399-7E00-473C-90D7-4DC95C6A3D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D3A399-7E00-473C-90D7-4DC95C6A3D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D3A399-7E00-473C-90D7-4DC95C6A3D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D3A399-7E00-473C-90D7-4DC95C6A3D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B05F1E-5337-4DB1-BCB9-622385D5AA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B05F1E-5337-4DB1-BCB9-622385D5AA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B05F1E-5337-4DB1-BCB9-622385D5AA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B05F1E-5337-4DB1-BCB9-622385D5AA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA95FB40-7DB3-43DD-ADD3-65032767B4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA95FB40-7DB3-43DD-ADD3-65032767B4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA95FB40-7DB3-43DD-ADD3-65032767B4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA95FB40-7DB3-43DD-ADD3-65032767B4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54D47DA0-CEC8-49A7-9AB1-26DD3A8F868C}
+	EndGlobalSection
+EndGlobal
